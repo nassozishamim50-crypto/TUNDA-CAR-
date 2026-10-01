@@ -1,0 +1,6 @@
+{
+  "name": "AutoLink Uganda",
+  "description": "Uganda's premier automotive marketplace to find cars, genuine spare parts, and trusted garages, dealerships, and auto services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
